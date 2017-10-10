@@ -1,6 +1,6 @@
 #Author
-Chuanguo Chai
-John Smith
+Chuanguo Chai University of Manchester
+John Smith University of Liz
 
 #Title
 Measurement - model comparison of secondary organic aerosol over West Africa
