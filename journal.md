@@ -1,6 +1,7 @@
 #Author
-Chuanguo Chai University of Manchester
 John Smith University of Liz
+Chuanguo Chai University of Manchester
+
 
 #Title
 Measurement - model comparison of secondary organic aerosol over West Africa
