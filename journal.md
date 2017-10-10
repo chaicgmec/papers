@@ -17,3 +17,6 @@ We simulate formation of SOA over W. Africa, using John's marvellous model.
 
 #Conclustion
 Write some conclusions here.
+
+#Figures
+Add figures here. It's a draft.
