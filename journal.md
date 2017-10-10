@@ -2,7 +2,7 @@
 Chuanguo Chai
 
 #Title
-Secondary organic aerosol over West Africa
+Measurements of secondary organic aerosol over West Africa
 
 #Introduction section
 We present measurements of SOA over West Africa.
